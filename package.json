@@ -9,7 +9,8 @@
     "dev": "vuepress dev .",
     "start": "vuepress dev .",
     "build": "vuepress build .",
-    "deploy": "npx gh-pages -d .vuepress/dist"
+    "deploy": "npx gh-pages -d .vuepress/dist",
+    "docs:build": "vuepress build docs"
   },
   "dependencies": {
     "vuepress": "2.0.0-rc.0",
