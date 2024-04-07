@@ -28,9 +28,9 @@ export default defineUserConfig({
       ],
     },
     navbar: [
-      { text: "Home", link: "/" },
-      { text: "Categories", link: "/categories/reco/1/" },
-      { text: "Tags", link: "/tags/tag1/1/" },
+      { text: "主页", link: "/" },
+      { text: "文档", link: "/categories/reco/1/" },
+      { text: "标签", link: "/tags/tag1/1/" },
       {
         text: "Docs",
         children: [
@@ -43,7 +43,7 @@ export default defineUserConfig({
       body: [
         {
           type: "text",
-          content: `🎉🎉🎉 reco 主题 2.x 已经接近 Beta 版本，在发布 Latest 版本之前不会再有大的更新，大家可以尽情尝鲜了，并且希望大家在 QQ 群和 GitHub 踊跃反馈使用体验，我会在第一时间响应。`,
+          content: `这是我的博客，欢迎你的到来！`,
           style: "font-size: 12px;",
         },
         {
@@ -51,15 +51,14 @@ export default defineUserConfig({
         },
         {
           type: "title",
-          content: "QQ 群",
+          content: "QQ & WeChat",
         },
         {
           type: "text",
           content: `
           <ul>
-            <li>QQ群1：1037296104</li>
-            <li>QQ群2：1061561395</li>
-            <li>QQ群3：962687802</li>
+            <li>QQ：244057735</li>
+            <li>Wechat：Starlight0798</li>
           </ul>`,
           style: "font-size: 12px;",
         },
@@ -74,22 +73,9 @@ export default defineUserConfig({
           type: "text",
           content: `
           <ul>
-            <li><a href="https://github.com/vuepress-reco/vuepress-theme-reco-next/issues">Issues<a/></li>
-            <li><a href="https://github.com/vuepress-reco/vuepress-theme-reco-next/discussions/1">Discussions<a/></li>
+            <li><a href="https://github.com/Starlight0798">My Home Page<a/></li>
           </ul>`,
           style: "font-size: 12px;",
-        },
-        {
-          type: "hr",
-        },
-        {
-          type: "buttongroup",
-          children: [
-            {
-              text: "打赏",
-              link: "/docs/others/donate.html",
-            },
-          ],
         },
       ],
     },
