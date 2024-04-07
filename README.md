@@ -17,7 +17,7 @@ bannerBrand:
     - { icon: 'LogoGithub', link: 'https://github.com/vuepress-reco/vuepress-theme-reco' }
 blog:
   socialLinks:
-    - { icon: 'LogoGithub', link: 'https://github.com/recoluan' }
+    - { icon: 'LogoGithub', link: 'https://github.com/Starlight0798' }
 isShowTitleInHome: true
 actionText: About
 actionLink: /views/other/about
