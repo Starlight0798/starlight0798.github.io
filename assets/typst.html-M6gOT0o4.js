@@ -1,0 +1,1 @@
+import{_ as t,o as e,c as s,a as c}from"./app-FIbDgYYd.js";const o={},_=c("p",null,"typst学习计划。",-1),n=[_];function a(r,l){return e(),s("div",null,n)}const d=t(o,[["render",a],["__file","typst.html.vue"]]);export{d as default};
