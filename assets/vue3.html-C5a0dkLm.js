@@ -1,1 +1,0 @@
-import{_ as t,o,c,a as e}from"./app-ctxQf6i6.js";const _={},s=e("p",null,"在网上看了半天，有react有vue3有vue2的，最终觉得vue3值得一学，顺便关注了一手yyx大神（卧槽10w follow），目标是会做点小网页就行，不求多，开始学习！",-1),n=e("p",null,"（待续）",-1),l=[s,n];function a(r,u){return o(),c("div",null,l)}const f=t(_,[["render",a],["__file","vue3.html.vue"]]);export{f as default};
