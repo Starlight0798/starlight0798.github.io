@@ -29,8 +29,8 @@ export default defineUserConfig({
     },
     navbar: [
       { text: "主页", link: "/" },
-      { text: "目录", link: "/categories/language/1/" },
-      { text: "标签", link: "/tags/language/1/" },
+      { text: "目录", link: "/categories/zaxiang/1/" },
+      { text: "标签", link: "/tags/leetcode/1/" },
     ],
     bulletin: {
       body: [
