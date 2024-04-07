@@ -9,7 +9,7 @@ bannerBrand:
   bgImage: '/bg.svg'
   title: qmj の 世界 
   description: 一位平平无奇的Coder.
-  tagline: 私密马赛
+  tagline: ......
   buttons:
     - { text: Guide, link: '/docs/guide/introduce' }
     - { text: Github, link: 'https://github.com/Starlight0798', type: 'plain' }
