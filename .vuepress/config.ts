@@ -3,12 +3,12 @@ import type { DefaultThemeOptions } from "vuepress";
 import recoTheme from "vuepress-theme-reco";
 
 export default defineUserConfig({
-  title: "vuepress-theme-reco",
+  title: "Pluto's Blog",
   description: "Just playing around",
   theme: recoTheme({
     style: "@vuepress-reco/style-default",
     logo: "/logo.png",
-    author: "reco_luan",
+    author: "Pluto",
     authorAvatar: "/head.png",
     docsRepo: "https://github.com/vuepress-reco/vuepress-theme-reco-next",
     docsBranch: "main",
@@ -29,7 +29,7 @@ export default defineUserConfig({
     },
     navbar: [
       { text: "主页", link: "/" },
-      { text: "文档", link: "/categories/reco/1/" },
+      { text: "目录", link: "/categories/reco/1/" },
       { text: "标签", link: "/tags/tag1/1/" },
       {
         text: "Docs",
