@@ -4,7 +4,7 @@ date: 2024/04/07
 tags:
  - typst
 categories:
- - language
+ - 编程语言
 ---
 
 ## Typst
