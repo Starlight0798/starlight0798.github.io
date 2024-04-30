@@ -3,16 +3,15 @@ title: Introduce
 date: 2024/04/07
 ---
 
-## 2024-4-7
-
 Hello! 我正在南开大学就读本科信息安全专业，欢迎加我qq or Wx聊天！
 
 本人目前掌握以下技能：
 
-- Python : 深度学习，机器学习，爬虫
+- Python : 深度学习，机器学习，网络爬虫等
 - C++：面向对象编程，网络编程
 - SQL：增删改查
 - 安全逆向工具如IDA, OLLYDBG, X64DBG
+- BurpSuite, reqable抓包，API接口测试
 
 ​	最近在研究Vue前端，看到了vuepress这个主题，好用就拿来了，顺便学了下Typescript的写法，不得不说类型检查是真的yyds。
 
